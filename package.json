@@ -40,9 +40,9 @@
   "dependencies": {
     "gulp-concat": "2.6.1",
     "gulp-footer": "2.1.0",
-    "gulp-header": "2.0.7",
+    "gulp-header": "github:fylein/gulp-header-patched#v2.10.0",
     "jsesc": "2.5.2",
-    "lodash.template": "^4.4.0",
+    "lodash": "^4.17.21",
     "map-stream": "0.0.7",
     "stream-combiner": "0.2.2",
     "through2": "^3.0.1"
