@@ -48,7 +48,7 @@
     "through2": "^3.0.1"
   },
   "devDependencies": {
-    "mocha": "latest",
+    "mocha": "^11.1.0",
     "vinyl": "^2.2.0"
   }
 }
