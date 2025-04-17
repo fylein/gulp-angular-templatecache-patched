@@ -200,3 +200,6 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-46880034-1/gulp-angular-templatecache/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+### Gulp header
+The [gulp-header](https://www.npmjs.com/package/gulp-header) package has several vulnerabilities. Instead of using it as a dependency, we are reusing its logic internally. All the dependencies that gulp-header relies on are already part of the current package.
