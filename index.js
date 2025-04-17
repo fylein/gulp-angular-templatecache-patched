@@ -4,7 +4,7 @@ var path = require('path');
 var through2 = require('through2');
 var lodashTemplate = require('lodash/template');
 var concat = require('gulp-concat');
-var header = require('gulp-header');
+var header = require('./gulp-header');
 var footer = require('gulp-footer');
 var jsesc = require('jsesc');
 
