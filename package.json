@@ -11,7 +11,8 @@
     "node": ">=8.0.0"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "gulp-header.js"
   ],
   "keywords": [
     "gulpplugin",
