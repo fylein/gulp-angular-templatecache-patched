@@ -1,7 +1,6 @@
 name: End of Life and Outdated JS Scan
 on:
   pull_request:
-    branches: [master]
     types: [opened, synchronize, reopened, ready_for_review]
 
 concurrency:
