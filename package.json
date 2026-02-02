@@ -42,7 +42,7 @@
     "gulp-concat": "2.6.1",
     "gulp-footer": "2.1.0",
     "jsesc": "2.5.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "map-stream": "0.0.7",
     "stream-combiner": "0.2.2",
     "through2": "^3.0.1"
