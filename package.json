@@ -52,6 +52,10 @@
     "vinyl": "^2.2.0"
   },
   "overrides": {
+    "glob": {
+      "minimatch": "9.0.7"
+    },
+    "minimatch": "5.1.8",
     "diff": "5.2.2"
   }
 }
